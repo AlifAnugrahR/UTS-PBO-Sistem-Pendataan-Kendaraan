@@ -1,10 +1,15 @@
 # UTS PBO – Sistem Pendataan Kendaraan
 
 **Nama:** Alif Anugrah Ramadhan
+
 **NIM:** 2509116019
+
 **Program Studi:** Sistem Informasi
+
 **Universitas:** Universitas Mulawarman
+
 **Kelas:** A 2025
+
 **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)
 
 ---
@@ -42,7 +47,8 @@ Program terdiri dari beberapa class yang memiliki fungsi berbeda:
 
 ### Struktur Package
 
-gambar package
+<img width="312" height="250" alt="image" src="https://github.com/user-attachments/assets/2cd0dd78-9140-4c76-9a5e-72d2241a4c19" />
+
 
 ## Konsep OOP yang Digunakan
 
@@ -323,16 +329,17 @@ Jika ID tidak ditemukan, sistem menampilkan pesan bahwa data tidak ditemukan.
 
 ## Penjelasan Gambar
 
-### 1. Struktur Project
+### 1. Proses Tambah Kendaraan
 
-**Gambar:** Screenshot struktur package dan class pada project.
+**Gambar:** Screenshot saat menambahkan data kendaraan.
 
 **Penjelasan:**
-Menampilkan pembagian class pada program, yaitu class utama, class data kendaraan, class layanan, dan class tampilan.
+Pengguna memasukkan data kendaraan baru sesuai dengan informasi yang diminta oleh sistem.
 
 **Screenshot:**
 
-> Masukkan screenshot struktur project di sini.
+<img width="490" height="198" alt="image" src="https://github.com/user-attachments/assets/07ecb1a3-a0b5-4d91-9765-3aac6ff1040f" />
+
 
 ### 2. Tampilan Menu Utama
 
@@ -343,7 +350,8 @@ Menampilkan pilihan menu yang dapat digunakan pengguna untuk mengelola data kend
 
 **Screenshot:**
 
-> Masukkan screenshot menu utama di sini.
+<img width="363" height="198" alt="image" src="https://github.com/user-attachments/assets/a6e4b25c-7db8-4d75-be76-8bf79074e232" />
+
 
 ### 3. Tampilan Data Awal
 
@@ -354,20 +362,10 @@ Menampilkan data kendaraan yang sudah tersedia ketika program pertama kali dijal
 
 **Screenshot:**
 
-> Masukkan screenshot data awal di sini.
+<img width="310" height="422" alt="image" src="https://github.com/user-attachments/assets/27060bc9-b815-4a8d-9bea-3eec829c372a" />
 
-### 4. Proses Tambah Kendaraan
 
-**Gambar:** Screenshot saat menambahkan data kendaraan.
-
-**Penjelasan:**
-Pengguna memasukkan data kendaraan baru sesuai dengan informasi yang diminta oleh sistem.
-
-**Screenshot:**
-
-> Masukkan screenshot proses tambah kendaraan di sini.
-
-### 5. Proses Tampilkan Kendaraan
+### 4. Proses Tampilkan Kendaraan
 
 **Gambar:** Screenshot daftar kendaraan.
 
@@ -376,9 +374,10 @@ Menampilkan seluruh data kendaraan yang tersimpan di dalam ArrayList.
 
 **Screenshot:**
 
-> Masukkan screenshot hasil tampil kendaraan di sini.
+<img width="446" height="637" alt="image" src="https://github.com/user-attachments/assets/96b8581b-9f0b-4b88-8422-de9148fd3492" />
 
-### 6. Proses Update Kendaraan
+
+### 5. Proses Update Kendaraan
 
 **Gambar:** Screenshot proses update kendaraan.
 
@@ -387,9 +386,10 @@ Pengguna memasukkan ID kendaraan kemudian mengubah nama dan kondisi kendaraan.
 
 **Screenshot:**
 
-> Masukkan screenshot proses update di sini.
+<img width="393" height="117" alt="image" src="https://github.com/user-attachments/assets/8acf9f6c-7c3d-4a2c-b5cd-a0c7a6791d68" />
 
-### 7. Proses Hapus Kendaraan
+
+### 6. Proses Hapus Kendaraan
 
 **Gambar:** Screenshot proses hapus kendaraan.
 
@@ -398,9 +398,10 @@ Pengguna memasukkan ID kendaraan yang ingin dihapus dan sistem menghapus data te
 
 **Screenshot:**
 
-> Masukkan screenshot proses hapus di sini.
+<img width="386" height="257" alt="image" src="https://github.com/user-attachments/assets/258fb017-61bd-4182-81ea-f2e1565ee0cb" />
 
-### 8. Validasi Input
+
+### 7. Validasi Input
 
 **Gambar:** Screenshot ketika pengguna memasukkan input yang tidak sesuai.
 
@@ -409,9 +410,10 @@ Sistem memberikan pesan peringatan dan meminta pengguna memasukkan data yang ses
 
 **Screenshot:**
 
-> Masukkan screenshot validasi input di sini.
+<img width="590" height="357" alt="image" src="https://github.com/user-attachments/assets/0672a921-107f-449f-880f-42a65dacc8b5" />
 
-### 9. Penerapan Polymorphism
+
+### 8. Penerapan Polymorphism
 
 **Gambar:** Screenshot hasil tampilan Mobil, Motor, dan Bus.
 
@@ -420,5 +422,12 @@ Setiap objek kendaraan menjalankan method tampilkanInfo() sesuai dengan class ma
 
 **Screenshot:**
 
-> Masukkan screenshot polymorphism di sini.
+<img width="663" height="145" alt="image" src="https://github.com/user-attachments/assets/fbadccea-3af1-48f1-9f0e-44e397cda778" />
+
+
+<img width="632" height="153" alt="image" src="https://github.com/user-attachments/assets/a9e2d76c-6e16-4212-a902-e22a144c606a" />
+
+
+<img width="766" height="153" alt="image" src="https://github.com/user-attachments/assets/114ad62d-a76c-428b-aeed-8c5d4139e023" />
+
 
